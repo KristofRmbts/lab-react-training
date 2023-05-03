@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+/*  */
+
+.IdCard {
+  display: flex;
+  border: 1px solid black;
+  width: 50vw;
+  margin: 10px auto;
+}
+
+.IdImage {
+  padding: 5px;
+}
+
+.IdInfo {
+  text-align: start;
+  line-height: 7px;
+}
+
+.GreetingBorder {
+  border: 1px solid red;
+  color: red;
+  font-weight: bold;
+  width: 50vw;
+  margin: 10px auto;
+}
+
+.MathBorder {
+  border: 1px solid seagreen;
+  color: seagreen;
+  font-weight: bold;
+  width: 50vw;
+  margin: 10px auto;
+}
